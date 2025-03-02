@@ -1,0 +1,74 @@
+:root {
+  --purple: #573280;
+  --cream: #faf3dd;
+}
+
+.box {
+  border: 5px solid whitesmoke;
+  background-color: white;
+  width: 900px;
+  height: 80vh;
+  border-radius: 20px 20px 20px 80px;
+  box-shadow: 5px 3px 8px whitesmoke;
+  position: relative;
+  left: 25%;
+}
+/* border-radius: top-left top-right bottom-right bottom-left;*/
+
+.job-skills-selector {
+  position: fixed;
+  right: 400px;
+  top: 100px;
+  min-width: 30%;
+}
+
+.dropdown {
+  height: 40px;
+  min-width: 70%;
+  margin-top: 100px;
+  margin-left: 50%;
+  margin-right: 10px;
+  border-color: 1px solid slategray;
+}
+
+.dropdown2 {
+  height: 40px;
+  min-width: 70%;
+  margin-top: 40px;
+  margin-left: 50%;
+  margin-right: 10px;
+  border-color: slategray;
+}
+
+.skills-list {
+  margin-top: 50px;
+  margin-left: 50%;
+  margin-right: 10px;
+}
+
+.skills {
+  display: flex;
+  flex-direction: column;
+}
+
+.img-r {
+  height: 100%;
+  width: 45%;
+  border: 0px;
+  border-radius: 10px 64px 10px 64px;
+}
+
+/* border-radius: top-left top-right bottom-right bottom-left;*/
+
+.btn-r {
+  background-color: var(--purple);
+  border: none;
+  color: white;
+  border-radius: 10px;
+  height: 40px;
+  width: 100px;
+  position: fixed;
+  top: 500px;
+  left: 65%;
+  font-size: larger;
+}

@@ -1,0 +1,234 @@
+/* INTROVISE 3*/
+root {
+  background-color: white;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  font-family: sans-serif;
+}
+
+.Inrovise {
+  font-size: 24px;
+  font-weight: bold;
+  color: #faf3dd;
+  z-index: +5;
+  position: fixed;
+  left: 90px;
+  top: 20px;
+  font-family: sans-serif;
+}
+
+/* Style for the image in the navbar */
+.Nav img {
+  height: 50px;
+  width: auto;
+  margin-right: 10px;
+  z-index: +100;
+  position: fixed;
+  left: 40px;
+  top: 28px;
+}
+
+.half {
+  width: 48%;
+  height: 100vh;
+  display: flex;
+  padding-top: 200px;
+  align-items: center;
+  z-index: -1;
+  position: relative;
+}
+
+.half::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/wavy_login.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: blur(1.5px);
+  z-index: -1;
+}
+
+.head {
+  position: fixed;
+  right: 280px;
+  top: 100px;
+  font-size: 22px;
+  font-family: sans-serif;
+}
+
+.head span {
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.sec {
+  position: fixed;
+  right: 365px;
+  top: 140px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.border {
+  height: 1px;
+  width: 700px;
+  position: fixed;
+  display: block;
+  top: 250px;
+  right: 60px;
+  text-align: center;
+  background-color: #573280;
+}
+
+.text {
+  position: fixed;
+  top: 225px;
+  right: 403px;
+  background-color: white;
+  color: #573280;
+}
+
+.E {
+  position: fixed;
+  right: 530px;
+  top: 280px;
+  font-family: sans-serif;
+}
+
+.Email {
+  position: fixed;
+  top: 320px;
+  width: 400px;
+  height: 30px;
+  right: 170px;
+  border: 1px solid rgb(176, 189, 202);
+  border-radius: 2px;
+}
+
+.input::placeholder {
+  color: slategray;
+}
+
+.P {
+  position: fixed;
+  right: 500px;
+  top: 360px;
+  font-family: sans-serif;
+}
+
+.Pass {
+  position: fixed;
+  top: 400px;
+  width: 400px;
+  height: 30px;
+  right: 170px;
+  border: 1px solid rgb(176, 189, 202);
+  border-radius: 2px;
+}
+
+.input::placeholder {
+  color: slategray;
+}
+
+.btnSign {
+  position: fixed;
+  top: 455px;
+  left: 956px;
+  background-color: #573280;
+  width: 402px;
+  height: 30px;
+  border: none;
+  border-radius: 4px;
+  color: #faf3dd;
+}
+
+.a {
+  position: fixed;
+  top: 500px;
+  right: 440px;
+  color: blue;
+  font-family: sans-serif;
+}
+
+.np {
+  position: fixed;
+  top: 530px;
+  right: 260px;
+  color: black;
+  font-family: sans-serif;
+}
+
+.np a {
+  color: blue;
+  text-decoration: none;
+  padding-left: 3px;
+}
+
+.google-login1 {
+  position: fixed;
+  top: 200px;
+  right: 330px;
+  font-family: sans-serif;
+  color: black;
+}
+
+.google-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: fixed;
+}
+
+.google-btn img {
+  width: 50px;
+  height: auto;
+}
+
+.slider-img {
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+  object-fit: contain;
+  border-radius: 20px;
+}
+
+.slider {
+  max-width: 900px;
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.slider-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.slick-slide {
+  display: flex !important;
+  justify-content: center;
+}
+.slick-list {
+  padding: 0 !important;
+}
+
+.Nav img {
+  height: 50px;
+  width: auto;
+  margin-right: 10px;
+  z-index: +100;
+  position: fixed;
+  left: 40px;
+  top: 28px;
+  filter: invert(94%) sepia(8%) saturate(556%) hue-rotate(358deg)
+    brightness(102%) contrast(95%); /* New color filter for #faf3dd */
+}

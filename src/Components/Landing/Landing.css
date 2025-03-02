@@ -1,0 +1,402 @@
+:root {
+  background-color: white ;
+  overflow: scrollable;
+}
+
+.img-sec {
+  margin-top: -74px;
+  width: 100%;
+  z-index: -1;
+}
+
+.img-sec2 {
+  margin-top: -200px;
+  width: 95%;
+  margin-left: 60px;
+  z-index: -1;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 2rem;
+  background-color: #FAF3DD;
+  font-family: sans-serif;
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #2c3e50;
+  cursor: pointer;
+}
+
+.nav-middle {
+  display: flex;
+  gap: 2rem;
+  margin-right: 650px; 
+  margin-top: 10px;
+  
+}
+
+.nav-middle a {
+  color: #4a5568;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.nav-middle a:hover {
+  color: #2c3e50;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.nav-right a {
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.nav-right a:first-child {
+  color: #4a5568;
+}
+
+.nav-right a:first-child:hover {
+  color: #2c3e50;
+}
+
+.signup-button {
+  background-color: #573280;
+  color: black;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.signup-button {
+  background-color: #573280; 
+  color: #FAF3DD;
+  padding: 0.6rem 1.5rem;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.signup-button:hover {
+  background-color: #FFBC3A; 
+}
+
+#login-l {
+  color: #573280;
+  font-weight: 700 ;
+
+}
+
+
+.masked-button {
+width: 200px;
+height: 50px; 
+background-color: #573280;
+border: 0px;
+border-radius: 5px;
+cursor: pointer;
+transition: transform 0.3s ease;
+position: absolute;
+bottom: 153px;
+left: 4%;
+}
+
+.masked-button:hover {
+transform: scale(1.05);
+}
+
+.masked-button2 {
+width: 200px;
+height: 50px;
+background-color: transparent;
+color: #573280;
+border: 0px;
+border-radius: 5px;
+cursor: pointer;
+transition: transform 0.3s ease;
+position: absolute;
+bottom: 153px;
+left: 17%;
+display: flex;
+align-items: center;
+gap: 8px;
+line-height: 1;
+}
+
+.play-icon {
+  font-size: 1.5rem;
+  color: #573280;
+}
+
+.masked-button2:hover {
+transform: scale(1.05);
+border: none;
+}
+
+.pg1 h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  color: black;
+  margin-top: -200px;
+  margin-left: 40px;
+
+}
+
+.pg1 p{
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: black;
+  margin-top: -50px;
+  margin-left: 40px;
+}
+
+.img-l-1, .img-l-2, .img-l-3 {
+  width: 485px;
+  height: 500px;
+  left: 40px;
+  top: 940px;
+  display: flex;
+  flex-direction: row;
+  transition: transform 0.3s ease;
+}
+
+.img-l-1:hover, .img-l-2:hover, .img-l-3:hover {
+  transform: scale(1.05);
+  
+}
+
+.image-container {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  margin-left: 0px;
+  gap: -10px; 
+  max-width: 100%;
+}
+/* General Hidden State */
+.hidden {
+  opacity: 0;
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+/* Text Sliding In from the Left */
+/* General Hidden State */
+.hidden {
+  opacity: 0;
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+/* Text Sliding In from the Left */
+.slide-left {
+  transform: translateX(-50px); /* Start off-screen left */
+}
+
+.show.slide-left {
+  transform: translateX(0); /* Move into view */
+  opacity: 1;
+}
+
+/* General Hidden State */
+.hidden {
+  opacity: 0;
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+/* Text Sliding In from the Left */
+.slide-left {
+  transform: translateX(-50px); /* Start off-screen left */
+}
+
+.show.slide-left {
+  transform: translateX(0); /* Move into view */
+  opacity: 1;
+}
+
+/* Images Sliding In from the Bottom */
+.slide-up {
+  transform: translateY(50px); /* Start below */
+}
+
+.show.slide-up {
+  transform: translateY(0); /* Move into view */
+  opacity: 1;
+}
+
+/* Image Container - Keeps Images in a Row */
+.image-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* Space between images */
+  margin-top: 30px;
+}
+
+/* Image Styles - Bigger & Hover Scaling */
+.img-l {
+  width: 485px;  /* Adjusted to match original size */
+  height: 500px;
+  display: block;
+  transition: transform 0.3s ease-in-out; /* Smooth scaling */
+}
+
+.img-l:hover {
+  transform: scale(1.05); /* Enlarges on hover */
+}
+
+.hidden {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+.pg2 h1{
+  font-size: 4rem;
+  font-weight: 700;
+  color: black;
+  margin-top: -20px;
+  margin-left: 40px;
+}
+
+.pg2 p {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: black;
+  margin-top: -50px;
+  margin-left: 40px;
+}
+
+.img-l2 {
+  width: 90%;
+  margin-left: 50px;
+
+} 
+
+.pg3 {
+  width: 100%;
+  margin-top: -50px;
+}
+
+.testimonial-section {
+  padding: 4rem 2rem;
+  background-color: #FAF3DD;
+  margin-top: 50px;
+}
+
+.carousel-container {
+  overflow: hidden;
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.carousel-track {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+  
+.testimonial-card-wrapper {
+  width: 100%;
+  flex-shrink: 0;
+}
+
+.testimonial-card {
+  background: white;
+  border-radius: 15px;
+  padding: 2rem;
+  width: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.testimonial-card h3 {
+  font-size: 1.5rem;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.testimonial-card p {
+  color: #4a5568;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.testimonial-footer {
+  border-top: 1px solid #eee;
+  padding-top: 1rem;
+}
+
+.testimonial-footer .name {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.testimonial-footer .role {
+  color: #718096;
+  font-size: 0.9rem;
+}
+
+/* In the testimonial section styles */
+.testimonial-section h1 {
+  color: black;
+  /* Keep existing styles from your code */
+  font-size: 4rem;
+  font-weight: 700;
+  margin-left: 40px;
+}
+.hidden {
+  opacity: 0;
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.show {
+  opacity: 1;
+}
+
+.slide-left {
+  transform: translateX(-50px);
+}
+
+.show.slide-left {
+  transform: translateX(0);
+}
+
+.slide-up {
+  transform: translateY(50px);
+}
+
+.show.slide-up {
+  transform: translateY(0);
+}
+
+.pg4 {
+  width: 100%;
+}
+
+.footer {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+  margin-bottom: -10px;
+}
+
+.footer img {
+  width: 95%;
+  padding-top: 20px;
+}

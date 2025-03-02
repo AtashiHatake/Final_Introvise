@@ -1,0 +1,4 @@
+/* hideIcon.css */
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium {
+  display: none !important;
+}
