@@ -1,0 +1,41 @@
+question_text,keywords,question_type
+Explain event-driven architecture patterns.,"EDA, messaging, Kafka",Technical
+How do you implement API versioning?,"API versioning, backward compatibility",Technical
+What are the tradeoffs of monolithic vs microservices?,"architecture, tradeoffs",Technical
+Explain database replication strategies.,"replication, master-slave, clustering",Technical
+How do you implement distributed locking?,"distributed locks, Redis, ZooKeeper",Technical
+What are eventual consistency patterns?,"consistency, CQRS, event sourcing",Technical
+Explain the Hexagonal Architecture pattern.,"ports/adapters, clean architecture",Technical
+How do you handle cross-origin resource sharing?,"CORS, web security",Technical
+What are the security risks of JWT tokens?,"JWT, security, token revocation",Technical
+Explain gRPC protocol buffers implementation.,"gRPC, protobuf, serialization",Technical
+How do you optimize frontend performance?,"web vitals, lazy loading, caching",Technical
+What are WebSocket communication best practices?,"WebSocket, real-time, bi-directional",Technical
+Explain database connection pooling strategies.,"connection pooling, HikariCP",Technical
+How do you implement dark launching?,"feature flags, gradual rollout",Technical
+What are the challenges of distributed transactions?,"2PC, Saga pattern",Technical
+Explain the BFF (Backend for Frontend) pattern.,"BFF, API composition",Technical
+How do you monitor microservices performance?,"metrics, tracing, logging",Technical
+What are circuit breaker implementation patterns?,"resilience, Hystrix",Technical
+Explain database sharding strategies.,"sharding, horizontal scaling",Technical
+How do you implement API contract testing?,"Pact, consumer-driven contracts",Technical
+Explain event-driven architecture patterns.,"EDA, messaging, Kafka",Technical
+How do you implement API versioning?,"API versioning, backward compatibility",Technical
+What are the tradeoffs of monolithic vs microservices?,"architecture, tradeoffs",Technical
+Explain database replication strategies.,"replication, master-slave, clustering",Technical
+How do you implement distributed locking?,"distributed locks, Redis, ZooKeeper",Technical
+What are eventual consistency patterns?,"consistency, CQRS, event sourcing",Technical
+Explain the Hexagonal Architecture pattern.,"ports/adapters, clean architecture",Technical
+How do you handle cross-origin resource sharing?,"CORS, web security",Technical
+What are the security risks of JWT tokens?,"JWT, security, token revocation",Technical
+Explain gRPC protocol buffers implementation.,"gRPC, protobuf, serialization",Technical
+How do you optimize frontend performance?,"web vitals, lazy loading, caching",Technical
+What are WebSocket communication best practices?,"WebSocket, real-time, bi-directional",Technical
+Explain database connection pooling strategies.,"connection pooling, HikariCP",Technical
+How do you implement dark launching?,"feature flags, gradual rollout",Technical
+What are the challenges of distributed transactions?,"2PC, Saga pattern",Technical
+Explain the BFF (Backend for Frontend) pattern.,"BFF, API composition",Technical
+How do you monitor microservices performance?,"metrics, tracing, logging",Technical
+What are circuit breaker implementation patterns?,"resilience, Hystrix",Technical
+Explain database sharding strategies.,"sharding, horizontal scaling",Technical
+How do you implement API contract testing?,"Pact, consumer-driven contracts",Technical

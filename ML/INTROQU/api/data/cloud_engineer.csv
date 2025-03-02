@@ -1,0 +1,73 @@
+question_text,keywords,question_type
+Explain AWS Nitro System architecture.,"Nitro, hypervisor",Technical
+How do you implement HPC in the cloud?,"HPC, parallel clusters",Technical
+What are confidential computing offerings?,"Azure DCsv2, AWS Nitro",Technical
+Explain cloud-based quantum computing services.,"Braket, Quantum Cloud",Technical
+How do you implement cloud-based DR drills?,"DR testing, failover",Technical
+What are cloud-based blockchain services?,"Managed Blockchain, BaaS",Technical
+Explain edge machine learning deployment.,"SageMaker Neo, IoT Greengrass",Technical
+How do you implement cloud-based HSM?,"CloudHSM, key management",Technical
+What are cloud-based digital twins?,"Azure Digital Twins, IoT",Technical
+Explain serverless container platforms.,"AWS Fargate, Cloud Run",Technical
+How do you implement cloud-based AR/VR?,"Azure Mixed Reality, AWS Sumerian",Technical
+What are cloud-based robotics platforms?,"AWS RoboMaker, ROS",Technical
+Explain cloud-based satellite ground stations.,AWS Ground Station,Technical
+How do you implement cloud-based genomics?,Google Life Sciences,Technical
+What are cloud-based 5G core networks?,"AWS Wavelength, edge",Technical
+Explain cloud-based mainframe modernization.,AWS Mainframe Modernization,Technical
+How do you implement cloud-based HPC storage?,"FSx for Lustre, parallel",Technical
+What are cloud-based simulation services?,"Azure Orbital, simulations",Technical
+Explain confidential computing in GCP.,Confidential VMs,Technical
+How do you implement cloud-based digital twins?,Azure Digital Twins,Technical
+Explain the concept of Infrastructure as Code (IaC).,"IaC, Terraform, CloudFormation",Technical
+How do you ensure security in cloud applications?,"cloud security, IAM, encryption",Technical
+What are the benefits of serverless architecture?,"serverless, Lambda, cost efficiency",Technical
+Explain cloud cost optimization strategies.,"cost optimization, reserved instances",Technical
+How do you troubleshoot network issues in the cloud?,"VPC, route tables, NACLs",Technical
+What are cloud-native applications?,"cloud-native, Twelve-Factor App",Technical
+How do you implement multi-cloud strategies?,"multi-cloud, Anthos, Azure Arc",Technical
+Explain the shared responsibility model.,"security, compliance, cloud providers",Technical
+What are the differences between VMs and containers?,"virtualization, containers, Docker",Technical
+How do you implement disaster recovery in AWS?,"DR, S3 Cross-Region, RDS backups",Technical
+Explain auto-scaling in cloud environments.,"auto-scaling, load balancers, metrics",Technical
+What are cloud formation templates?,"CloudFormation, YAML, infrastructure",Technical
+How do you monitor cloud resources effectively?,"CloudWatch, Prometheus, Grafana",Technical
+Explain cold starts in serverless.,"cold start, Lambda, initialization",Technical
+What are edge computing use cases?,"edge computing, IoT, CDN",Technical
+How do you secure S3 buckets?,"S3 security, bucket policies, ACLs",Technical
+Explain Spot vs On-Demand instances.,"EC2, cost optimization, spot fleet",Technical
+What are cloud migration strategies?,"lift-and-shift, re-platforming",Technical
+How do you implement zero-trust networking?,"zero-trust, BeyondCorp, microsegmentation",Technical
+Explain Kubernetes pod networking.,"Kubernetes, CNI, Calico",Technical
+What are stateful vs stateless services?,"state management, session persistence",Technical
+How do you manage cloud secrets?,"Secrets Manager, Vault, KMS",Technical
+Explain API gateways in cloud architecture.,"API Gateway, routing, throttling",Technical
+What are cloud workload protection platforms?,"CWPP, vulnerability scanning",Technical
+How do you implement cross-region replication?,"replication, S3, RDS read replicas",Technical
+Explain IaaS vs PaaS.,"cloud models, service layers",Technical
+What are cloud compliance frameworks?,"GDPR, HIPAA, SOC 2",Technical
+How do you optimize cloud storage costs?,"storage classes, lifecycle policies",Technical
+Explain VPC peering configuration.,"VPC peering, route tables",Technical
+What are cloud-based CI/CD pipelines?,"CodePipeline, Cloud Build, ArgoCD",Technical
+How do you implement cloud data encryption?,"KMS, envelope encryption, TLS",Technical
+Explain the concept of cloud bursting.,"cloud bursting, hybrid cloud",Technical
+Explain AWS Nitro System architecture.,"Nitro, hypervisor",Technical
+How do you implement HPC in the cloud?,"HPC, parallel clusters",Technical
+What are confidential computing offerings?,"Azure DCsv2, AWS Nitro",Technical
+Explain cloud-based quantum computing services.,"Braket, Quantum Cloud",Technical
+How do you implement cloud-based DR drills?,"DR testing, failover",Technical
+What are cloud-based blockchain services?,"Managed Blockchain, BaaS",Technical
+Explain edge machine learning deployment.,"SageMaker Neo, IoT Greengrass",Technical
+How do you implement cloud-based HSM?,"CloudHSM, key management",Technical
+What are cloud-based digital twins?,"Azure Digital Twins, IoT",Technical
+Explain serverless container platforms.,"AWS Fargate, Cloud Run",Technical
+How do you implement cloud-based AR/VR?,"Azure Mixed Reality, AWS Sumerian",Technical
+What are cloud-based robotics platforms?,"AWS RoboMaker, ROS",Technical
+Explain cloud-based satellite ground stations.,AWS Ground Station,Technical
+How do you implement cloud-based genomics?,Google Life Sciences,Technical
+What are cloud-based 5G core networks?,"AWS Wavelength, edge",Technical
+Explain cloud-based mainframe modernization.,AWS Mainframe Modernization,Technical
+How do you implement cloud-based HPC storage?,"FSx for Lustre, parallel",Technical
+What are cloud-based simulation services?,"Azure Orbital, simulations",Technical
+Explain confidential computing in GCP.,Confidential VMs,Technical
+How do you implement cloud-based digital twins?,Azure Digital Twins,Technical

@@ -1,0 +1,41 @@
+question_text,keywords,question_type
+Explain data mesh architecture principles.,"data mesh, domain ownership",Technical
+How do you implement real-time analytics?,"stream processing, Kafka, Flink",Technical
+What are slowly changing dimensions Type 4?,"SCD, Type 4, history tables",Technical
+Explain the Medallion architecture in data lakes.,"bronze, silver, gold layers",Technical
+How do you handle GDPR compliance in data pipelines?,"GDPR, data anonymization",Technical
+What are data vault modeling techniques?,"data vault, agile DW",Technical
+Explain the difference between Parquet and Avro.,"file formats, compression",Technical
+How do you implement data quality frameworks?,"Great Expectations, data tests",Technical
+What are the challenges of unstructured data?,"text, images, preprocessing",Technical
+Explain the concept of data contracts.,"data contracts, schema enforcement",Technical
+How do you implement change data capture?,"CDC, Debezium, log-based",Technical
+What are the differences between Kimball and Inmon?,DW methodologies,Technical
+Explain data observability principles.,"observability, data reliability",Technical
+How do you implement master data management?,"MDM, golden records",Technical
+What are the security patterns for PII data?,"PII, masking, encryption",Technical
+Explain the concept of data virtualization.,"virtualization, federation",Technical
+How do you handle time-series data storage?,"TimescaleDB, retention policies",Technical
+What are the best practices for data cataloging?,"metadata, discovery",Technical
+Explain the concept of data products.,"data-as-a-product, mesh",Technical
+How do you implement predictive analytics?,"forecasting, ARIMA models",Technical
+Explain data mesh architecture principles.,"data mesh, domain ownership",Technical
+How do you implement real-time analytics?,"stream processing, Kafka, Flink",Technical
+What are slowly changing dimensions Type 4?,"SCD, Type 4, history tables",Technical
+Explain the Medallion architecture in data lakes.,"bronze, silver, gold layers",Technical
+How do you handle GDPR compliance in data pipelines?,"GDPR, data anonymization",Technical
+What are data vault modeling techniques?,"data vault, agile DW",Technical
+Explain the difference between Parquet and Avro.,"file formats, compression",Technical
+How do you implement data quality frameworks?,"Great Expectations, data tests",Technical
+What are the challenges of unstructured data?,"text, images, preprocessing",Technical
+Explain the concept of data contracts.,"data contracts, schema enforcement",Technical
+How do you implement change data capture?,"CDC, Debezium, log-based",Technical
+What are the differences between Kimball and Inmon?,DW methodologies,Technical
+Explain data observability principles.,"observability, data reliability",Technical
+How do you implement master data management?,"MDM, golden records",Technical
+What are the security patterns for PII data?,"PII, masking, encryption",Technical
+Explain the concept of data virtualization.,"virtualization, federation",Technical
+How do you handle time-series data storage?,"TimescaleDB, retention policies",Technical
+What are the best practices for data cataloging?,"metadata, discovery",Technical
+Explain the concept of data products.,"data-as-a-product, mesh",Technical
+How do you implement predictive analytics?,"forecasting, ARIMA models",Technical

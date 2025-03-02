@@ -1,0 +1,72 @@
+question_text,keywords,question_type
+Explain eBPF for Linux kernel programming.,"eBPF, networking, tracing",Technical
+How do you implement chaos engineering?,"Chaos Monkey, failure injection",Technical
+What are WebAssembly runtime security considerations?,"Wasm, sandboxing",Technical
+Explain kernel bypass networking techniques.,"DPDK, XDP",Technical
+How do you implement confidential computing?,"SGX, secure enclaves",Technical
+What are FPGA acceleration patterns?,"FPGA, hardware acceleration",Technical
+Explain distributed SQL databases.,"CockroachDB, Spanner",Technical
+How do you implement zero-copy data transfers?,"zero-copy, performance",Technical
+What are memory-safe language benefits?,"Rust, memory safety",Technical
+Explain WebGPU graphics programming.,"WebGPU, compute shaders",Technical
+How do you implement QUIC protocol features?,"QUIC, HTTP/3",Technical
+What are WebAuthn implementation patterns?,"WebAuthn, FIDO2",Technical
+Explain eBPF-based security monitoring.,"eBPF, runtime security",Technical
+How do you implement persistent memory?,"PMEM, Optane",Technical
+What are RISC-V architecture benefits?,"RISC-V, open hardware",Technical
+Explain verifiable computing concepts.,"zk-SNARKs, proof systems",Technical
+How do you implement homomorphic encryption?,"HE, privacy-preserving",Technical
+What are distributed consensus algorithms?,"Raft, Paxos",Technical
+Explain WebAssembly component model.,"WASI, components",Technical
+How do you implement formal verification?,"TLA+, model checking",Technical
+How do you ensure code quality in your projects?,"code quality, testing, SonarQube",Technical
+Explain the difference between synchronous and asynchronous programming.,"async, concurrency, promises",Technical
+"What is API throttling, and how do you implement it?","API, rate limiting, security",Technical
+How do you optimize a slow-running SQL query?,"SQL optimization, indexing, execution plans",Technical
+Explain Docker and containerization.,"Docker, containers, orchestration",Technical
+"What are microservices, and why use them?","microservices, distributed systems, scalability",Technical
+Explain the concept of idempotency in APIs.,"idempotency, REST, API design",Technical
+What are circuit breakers in distributed systems?,"resilience, Hystrix, fault tolerance",Technical
+How do you implement JWT authentication?,"JWT, OAuth2, security",Technical
+Explain the CQRS pattern in system design.,"CQRS, architecture, separation",Technical
+What are the differences between gRPC and REST?,"gRPC, REST, API protocols",Technical
+How do you handle database connection pooling?,"connection pooling, HikariCP, performance",Technical
+Explain the event sourcing pattern.,"event sourcing, CQRS, audit trails",Technical
+What are the security risks of SQL injection?,"SQL injection, OWASP, security",Technical
+How do you implement distributed tracing?,"OpenTelemetry, Jaeger, observability",Technical
+Explain the sidecar pattern in microservices.,"sidecar, Envoy, service mesh",Technical
+What are the CAP theorem implications?,"CAP theorem, consistency, availability",Technical
+How do you design rate-limiting systems?,"rate limiting, token bucket, algorithms",Technical
+Explain the strangler pattern for legacy systems.,"strangler, refactoring, migration",Technical
+What are eventual consistency tradeoffs?,"eventual consistency, BASE, ACID",Technical
+How do you implement blue-green deployments?,"deployments, traffic shifting, zero-downtime",Technical
+Explain the concept of database sharding.,"sharding, horizontal scaling, partitioning",Technical
+What are materialized views in SQL?,"materialized views, query optimization",Technical
+How do you handle cache invalidation?,"caching, invalidation strategies, TTL",Technical
+Explain the difference between TCP and UDP.,"TCP, UDP, networking",Technical
+What are the benefits of API versioning?,"API versioning, backward compatibility",Technical
+How do you implement circuit breakers?,"resilience4j, fallback mechanisms",Technical
+Explain the role of service meshes.,"service mesh, Istio, Linkerd",Technical
+What are the security best practices for APIs?,"API security, OWASP, rate limiting",Technical
+How do you design fault-tolerant systems?,"fault tolerance, redundancy, chaos engineering",Technical
+Explain database connection pooling.,"connection pooling, performance, HikariCP",Technical
+Explain eBPF for Linux kernel programming.,"eBPF, networking, tracing",Technical
+How do you implement chaos engineering?,"Chaos Monkey, failure injection",Technical
+What are WebAssembly runtime security considerations?,"Wasm, sandboxing",Technical
+Explain kernel bypass networking techniques.,"DPDK, XDP",Technical
+How do you implement confidential computing?,"SGX, secure enclaves",Technical
+What are FPGA acceleration patterns?,"FPGA, hardware acceleration",Technical
+Explain distributed SQL databases.,"CockroachDB, Spanner",Technical
+How do you implement zero-copy data transfers?,"zero-copy, performance",Technical
+What are memory-safe language benefits?,"Rust, memory safety",Technical
+Explain WebGPU graphics programming.,"WebGPU, compute shaders",Technical
+How do you implement QUIC protocol features?,"QUIC, HTTP/3",Technical
+What are WebAuthn implementation patterns?,"WebAuthn, FIDO2",Technical
+Explain eBPF-based security monitoring.,"eBPF, runtime security",Technical
+How do you implement persistent memory?,"PMEM, Optane",Technical
+What are RISC-V architecture benefits?,"RISC-V, open hardware",Technical
+Explain verifiable computing concepts.,"zk-SNARKs, proof systems",Technical
+How do you implement homomorphic encryption?,"HE, privacy-preserving",Technical
+What are distributed consensus algorithms?,"Raft, Paxos",Technical
+Explain WebAssembly component model.,"WASI, components",Technical
+How do you implement formal verification?,"TLA+, model checking",Technical

@@ -1,0 +1,41 @@
+question_text,keywords,question_type
+Explain contrastive learning in self-supervised learning.,"SSL, contrastive loss",Technical
+How do you implement neural architecture search?,"NAS, AutoML",Technical
+What are knowledge distillation techniques?,"model compression, teacher-student",Technical
+Explain continual learning in neural networks.,"catastrophic forgetting, replay",Technical
+How do you handle multimodal data fusion?,"multimodal, fusion strategies",Technical
+What are transformer-based vision models?,"ViT, Swin Transformer",Technical
+Explain neural symbolic integration.,"symbolic AI, hybrid systems",Technical
+How do you implement federated learning?,"decentralized, privacy-preserving",Technical
+What are capsule networks?,"capsules, Hinton",Technical
+Explain the concept of meta-learning.,"learning-to-learn, few-shot",Technical
+How do you optimize for model serving latency?,"ONNX, TensorRT",Technical
+What are causal inference methods?,"causal ML, counterfactuals",Technical
+Explain neural architecture pruning.,"pruning, model optimization",Technical
+How do you implement active learning?,"data sampling, human-in-loop",Technical
+What are transformer memory optimization techniques?,"memory, flash attention",Technical
+Explain the concept of model distillation.,"distillation, model compression",Technical
+How do you handle concept drift in production?,"drift detection, retraining",Technical
+What are quantum machine learning basics?,"QML, quantum circuits",Technical
+Explain neural rendering techniques.,"NeRF, 3D reconstruction",Technical
+How do you implement multi-task learning?,"MTL, shared layers",Technical
+Explain contrastive learning in self-supervised learning.,"SSL, contrastive loss",Technical
+How do you implement neural architecture search?,"NAS, AutoML",Technical
+What are knowledge distillation techniques?,"model compression, teacher-student",Technical
+Explain continual learning in neural networks.,"catastrophic forgetting, replay",Technical
+How do you handle multimodal data fusion?,"multimodal, fusion strategies",Technical
+What are transformer-based vision models?,"ViT, Swin Transformer",Technical
+Explain neural symbolic integration.,"symbolic AI, hybrid systems",Technical
+How do you implement federated learning?,"decentralized, privacy-preserving",Technical
+What are capsule networks?,"capsules, Hinton",Technical
+Explain the concept of meta-learning.,"learning-to-learn, few-shot",Technical
+How do you optimize for model serving latency?,"ONNX, TensorRT",Technical
+What are causal inference methods?,"causal ML, counterfactuals",Technical
+Explain neural architecture pruning.,"pruning, model optimization",Technical
+How do you implement active learning?,"data sampling, human-in-loop",Technical
+What are transformer memory optimization techniques?,"memory, flash attention",Technical
+Explain the concept of model distillation.,"distillation, model compression",Technical
+How do you handle concept drift in production?,"drift detection, retraining",Technical
+What are quantum machine learning basics?,"QML, quantum circuits",Technical
+Explain neural rendering techniques.,"NeRF, 3D reconstruction",Technical
+How do you implement multi-task learning?,"MTL, shared layers",Technical
